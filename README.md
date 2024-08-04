@@ -33,6 +33,8 @@ This project focuses on various image processing techniques implemented in MATLA
   
   <img src="Img/8.png" width="700" height="400">
 
+- **For more features try [EXEC file](IPP-EXE-FILE/for_redistribution_files_only)**
+
   
 ## Dependencies
 - MATLAB
